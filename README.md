@@ -2,6 +2,13 @@
 
 基于 SRT 字幕文件，自动生成爆款标题、描述和标签，并使用 Chrome DevTools MCP 自动上传到抖音。
 
+## 安装
+
+将当前项目文件夹放置在以下位置：
+
+- **macOS/Linux**: `~/.claude/skills/`
+- **Windows**: `C:\Users\你的用户名\.claude\skills\`（例如：`C:\Users\penrose\.claude\skills\`）
+
 ## 快速开始
 
 ### 1. 安装 Chrome DevTools MCP
