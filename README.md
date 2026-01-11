@@ -101,6 +101,6 @@ python3 scripts/srt_parser.py video.srt --find-video
 claude mcp list
 ```
 
-## 许可证
+## 相关资源
 
-MIT License
+- [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) - 精选 Claude Skills 资源列表，更多技能示例和灵感
